@@ -1,15 +1,15 @@
 {
   "bot": {
     "name": "CHISA",
-    "phoneNumber": "8801806XXXXXX",
-    "customPairingCode": "",
+    "phoneNumber": "94781352903",
+    "customPairingCode": "NADUNDEV",
     "thumbnail": "public/thumbnail.jpg",
-    "groupJid": "",
+    "groupJid": "157694287724796@lid",
     "groupLink": "https://chat.whatsapp.com/FuyoDJWuOvM5g5HuU4SpT1",
     "prefix": ","
   },
   "owner": {
-    "name": "SIFAT",
+    "name": "MrNadun",
     "organization": "CHISA",
     "id": "8801806XXXXXX",
     "report": true,
